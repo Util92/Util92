@@ -1,0 +1,11 @@
+Reporting-MTA: dns; mx0b-00281601.pphosted.com
+Received-From-MTA: DNS; m0110487.ppops.net
+Arrival-Date: Mon, 23 May 2022 10:34:52 -0500
+
+Final-Recipient: RFC822; no-reply@netcredit.com
+X-Actual-Recipient: rfc822; no-reply@netcredit.com
+Action: failed
+Status: 5.1.1
+Remote-MTA: DNS; [198.135.170.1]
+Diagnostic-Code: SMTP; 550 5.1.1 <no-reply@netcredit.com>: Recipient address rejected: User unknown in virtual alias table
+Last-Attempt-Date: Mon, 23 May 2022 10:34:53 -0500
